@@ -9,7 +9,7 @@ function Type() {
           "Developer",
           "Cloud Engineer",
           "Full Stack Developer",
-          "ML/DL Enthusiast",
+          "Machine Learning Enthusiast",
         ],
         autoStart: true,
         loop: true,
