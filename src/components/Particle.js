@@ -22,12 +22,12 @@ function Particle() {
             speed: 0.05,
           },
           size: {
-            value: 1,
+            value: 1.5,
           },
           opacity: {
             anim: {
               enable: true,
-              speed: 1,
+              speed: 1.5,
               opacity_min: 0.05,
             },
           },

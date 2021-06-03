@@ -27,9 +27,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "The two most important days in your life are the day you are born and the day you find out why."{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Mark Twain</footer>
         </blockquote>
       </Card.Body>
     </Card>
