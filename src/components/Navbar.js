@@ -36,9 +36,7 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/">
-        &lt;Gold/&gt;
-        </Navbar.Brand>
+        <Navbar.Brand href="/">&lt;Gold/&gt;</Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
           onClick={() => {
@@ -89,7 +87,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/goldshakil/Portfolio"
+                href="https://github.com/goldshakil/My_Website"
                 target="_blank"
                 className="fork-btn-inner"
               >
