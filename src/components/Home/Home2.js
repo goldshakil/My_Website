@@ -4,7 +4,8 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
+  AiFillFacebook,
+  AiOutlineFacebook,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -19,34 +20,35 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with computers and programming when I was a kid and
+              since highschool I have been working hard to become a Software
+              Engineer who can build exciting and innvotive products &#128516;
               <br />
-              <br />I am fluent in classics like
+              <br />I am fluent in classics such as
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> Python, Javascript, C and Java </b>
               </i>
               <br />
-              <br />
-              My field of Interest's are building new &nbsp;
+              <br />I am currently work in the field of building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">Web Technologies and Products </b> and for
+                that I mainly use <b className="purple">AWS and React.js</b>
+              </i>
+              <br />
+              <br />I am also interested in
+              <i>
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  {" "}
+                  Computer Vision - 3D Machine Learning{" "}
                 </b>
               </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with
+              &nbsp; and
               <i>
-                <b className="purple"> Modern Javascript Frameworks</b>
+                <b className="purple"> Natural Language Processing</b>
               </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> Node.js and React.js</b>
-              </i>
+              <br />
+              <br />I am into research as well and would love to collaborate on
+              any Computer Science related <b className="purple"> papers </b>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -64,7 +66,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/goldshakil"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -74,17 +76,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/zuhaibshakeel/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -94,7 +86,17 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
+                  href="https://www.facebook.com/dahab.shakil"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiFillFacebook />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://www.instagram.com/gold_shakeel/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
