@@ -29,7 +29,7 @@ function Home2() {
                 <b className="purple"> Python, Javascript, C and Java </b>
               </i>
               <br />
-              <br />I am currently work in the field of building new &nbsp;
+              <br />I am currently working on building new{" "}
               <i>
                 <b className="purple">Web Technologies and Products </b> and for
                 that I mainly use <b className="purple">AWS and React.js</b>
