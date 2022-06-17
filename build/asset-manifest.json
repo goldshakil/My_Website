@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ebce604a.css",
+    "main.js": "/static/js/main.a3733a64.js",
+    "static/js/377.b701d775.chunk.js": "/static/js/377.b701d775.chunk.js",
+    "static/media/codeEditor.png": "/static/media/codeEditor.ba9458794dca1c746ef2.png",
+    "static/media/chatify.png": "/static/media/chatify.9373eddae1a258056c35.png",
+    "static/media/leaf.png": "/static/media/leaf.4c15d6eb3fc75cfef85b.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/plant.jpeg": "/static/media/plant.c9d382ae1b19b2280abe.jpeg",
+    "static/media/suicide.png": "/static/media/suicide.b72f1f9ffeb4775a7803.png",
+    "static/media/Soumyajit-Behera.pdf": "/static/media/Soumyajit-Behera.e794a3a617967c64584a.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/emotion.jpeg": "/static/media/emotion.e92e314a236f65bb89af.jpeg",
+    "static/media/avatar.svg": "/static/media/avatar.6292c485c525115c73ecd929951def54.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.ebce604a.css.map": "/static/css/main.ebce604a.css.map",
+    "main.a3733a64.js.map": "/static/js/main.a3733a64.js.map",
+    "377.b701d775.chunk.js.map": "/static/js/377.b701d775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebce604a.css",
+    "static/js/main.a3733a64.js"
+  ]
+}
